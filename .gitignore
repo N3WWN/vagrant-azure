@@ -9,6 +9,7 @@ babu
 example_box/
 *.rdp
 pkg/*
+!pkg/*.gem
 gem/
 manifests/
 modules/
